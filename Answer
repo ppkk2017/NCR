@@ -1,0 +1,7 @@
+2.Time and Memory complexity is about O(nlog2n), as I use quick sorting to make unique key for same characters with different order
+
+4.Totoal work cost is about 2 hours .Mainly are cost on unit test.
+
+
+
+p.s I add capture for Code Coverage.Not coverage area is in quick sorting exception.
